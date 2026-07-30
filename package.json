@@ -125,6 +125,7 @@
   },
   "devDependencies": {
     "@derekstride/tree-sitter-sql": "^0.3.11",
+    "@remotion/cli": "^4.0.502",
     "@tree-sitter-grammars/tree-sitter-lua": "^0.4.1",
     "@tree-sitter-grammars/tree-sitter-markdown": "^0.3.2",
     "@tree-sitter-grammars/tree-sitter-toml": "^0.7.0",
@@ -138,6 +139,7 @@
     "@types/react-dom": "^18.3.0",
     "esbuild": "^0.27.2",
     "np": "^11.0.2",
+    "remotion": "^4.0.502",
     "tree-sitter-bash": "^0.25.1",
     "tree-sitter-c": "^0.24.1",
     "tree-sitter-cli": "^0.26.5",
